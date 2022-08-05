@@ -9,7 +9,7 @@
 <p>🔭 I’m currently working on various projects, in PHP, Node.js and React.js</p>
 <p>📫 Click button below to connect to LinkedIn</p>
 
-<div background="blue">
+<div style="background:blue">
 <a href="https://www.linkedin.com/in/danielwambua/" class="button big">Connect Me</a>
 </div>
 
