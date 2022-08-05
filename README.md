@@ -7,9 +7,9 @@
 </div>
 
 <p>🔭 I’m currently working on various projects, in PHP, Node.js and React.js</p>
-<p>📫 You can reach me via @Sir_dantez21</p>
+<p>📫 Click button below to connect to LinkedIn</p>
 
-<div background-color="blue">
+<div background="blue">
 <a href="https://www.linkedin.com/in/danielwambua/" class="button big">Connect Me</a>
 </div>
 
