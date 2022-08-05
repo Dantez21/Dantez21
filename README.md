@@ -3,7 +3,7 @@ Hi, am Daniel,
 Frontend Software Developer.
 
 <div align="center">
-    <img src="/icom.png" width="300px"</img> 
+    <img src="/icom.png" margin-left="0" width="300px"</img> 
 </div>
 
 - 🔭 I’m currently working on various projects, in PHP, Node.js and React.js
