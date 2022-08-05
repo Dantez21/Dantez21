@@ -11,5 +11,6 @@
 
 <div style="background:blue">
 <a href="https://www.linkedin.com/in/danielwambua/" class="button big">Connect Me</a>
+    <span style="color: green"> Some green text </span>
 </div>
 
