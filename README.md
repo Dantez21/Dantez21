@@ -7,7 +7,7 @@
 </div>
 
 <p>🔭 I’m currently working on various projects, in PHP, Node.js and React.js</p>
-<p>📫 You can reach me via @Sir_dantez21 or https://www.linkedin.com/in/danielwambua.</p>
+<p>📫 You can reach me via @Sir_dantez21</p>
 
-<a href="#" class="button big">Connect Me</a>
+<a href="https://www.linkedin.com/in/danielwambua/" class="button big">Connect Me</a>
 
