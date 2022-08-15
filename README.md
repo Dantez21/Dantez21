@@ -6,7 +6,7 @@
     <img src="/icom.png" width="300px"</img> 
 </div>
 
-<p>🔭 I’m currently working on various projects, in PHP, Node.js and React.js</p>
+<p>🔭 I’m currently gathering more knowledge on various programming languages.</p>
 <p>📫 Click button below to connect to LinkedIn</p>
 
 <div style="background:blue">
