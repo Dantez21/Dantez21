@@ -106,9 +106,9 @@ For more projects, visit [my GitHub repositories](https://github.com/Dantez21?ta
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dantez21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dantez21&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Daniel's GitHub statistics" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantez21&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantez21&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used programming languages" />
 
 </div>
 
@@ -127,8 +127,6 @@ For more projects, visit [my GitHub repositories](https://github.com/Dantez21?ta
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dantez21&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
-
----
 
 ## 🤝 Let's Connect
 
