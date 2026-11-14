@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="assets/profile-banner.png" width="100%" alt="Daniel Wambua - Software Developer" />
+<img src="profile-banner.png.png" width="100%" alt="Daniel Wambua - Software Developer" />
 
 # Daniel Wambua
 
